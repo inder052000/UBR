@@ -1,6 +1,6 @@
 
 # Uber ride prediction
-This web application predicts uber fare from given specific parameters.
+This python web application predicts uber fare from given specific parameters.
 
 
 # Input/Output ScreenShots
