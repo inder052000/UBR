@@ -1,6 +1,6 @@
 
 # Uber ride prediction
-This app predicts uber fare from given parameters.
+This application predicts uber fare from given specific parameters.
 
 
 # Input/Output ScreenShots
@@ -14,4 +14,3 @@ This app predicts uber fare from given parameters.
 
 ![App Screenshot](https://github.com/inder052000/UBR/blob/master/ss4.jpg?raw=true)
 
-  
