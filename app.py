@@ -9,7 +9,7 @@ model = pickle.load(open('taxi.pkl','rb'))
 @app.route('/')
 def home():
     return render_template('index.html')
-
+#POST Method
 @app.route('/predict', methods=['POST'])
 def predict():
     int_features  = [int(x) for x in request.form.values()]
